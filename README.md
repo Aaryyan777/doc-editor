@@ -1,21 +1,21 @@
-# Doc-Tor 🩺📄
+# Doc-Tor 🩺
 
 **Doc-Tor** is a powerful, all-in-one PDF manipulation tool built with Python. It provides a modern Graphical User Interface (GUI) and a robust Command Line Interface (CLI) for handling your PDF needs efficiently.
 
-## 🚀 Features
+##  Features
 
-*   **📄 PDF to Word & Back:** Convert PDFs to editable Word documents (`.docx`) and convert them back to professional PDFs after editing.
-*   **✏️ Edit & Redact:** Search and replace text directly in the PDF, or securely redact (black out) sensitive information.
-*   **📑 Page Manipulation:**
+*   ** PDF to Word & Back:** Convert PDFs to editable Word documents (`.docx`) and convert them back to professional PDFs after editing.
+*   ** Edit & Redact:** Search and replace text directly in the PDF, or securely redact (black out) sensitive information.
+*   ** Page Manipulation:**
     *   **Rotate:** Fix orientation (90°, 180°, 270°).
     *   **Delete:** Remove unwanted pages easily.
     *   **Split/Extract:** Save specific page ranges as new files.
-*   **🔒 Security:** Encrypt your PDFs with AES-256 passwords or decrypt protected files.
-*   **🔗 Merge:** Combine multiple PDF files into a single document.
-*   **📝 Extract Text:** Dump text content from PDFs for analysis.
-*   **ℹ️ Metadata:** View detailed file information (Author, Page Count, Encryption status).
+*   ** Security:** Encrypt your PDFs with AES-256 passwords or decrypt protected files.
+*   ** Merge:** Combine multiple PDF files into a single document.
+*   ** Extract Text:** Dump text content from PDFs for analysis.
+*   ** Metadata:** View detailed file information (Author, Page Count, Encryption status).
 
-## 🛠️ Installation
+##  Installation
 
 1.  **Clone the repository:**
     ```bash
@@ -30,7 +30,7 @@
     ```
     *Note: `docx2pdf` requires Microsoft Word to be installed on Windows.*
 
-## 🖥️ Usage
+##  Usage
 
 ### Graphical User Interface (GUI)
 Launch the modern dark-mode GUI to access all features in a user-friendly way.
@@ -68,7 +68,7 @@ For automation and quick tasks, use the CLI.
     python cli.py --help
     ```
 
-## 📦 Dependencies
+##  Dependencies
 
 *   [Typer](https://typer.tiangolo.com/) - CLI building
 *   [PyMuPDF (fitz)](https://pymupdf.readthedocs.io/) - Core PDF processing
@@ -77,10 +77,10 @@ For automation and quick tasks, use the CLI.
 *   [docx2pdf](https://github.com/AlJohri/docx2pdf) - Word to PDF conversion
 *   [Rich](https://github.com/Textualize/rich) - Beautiful terminal output
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
