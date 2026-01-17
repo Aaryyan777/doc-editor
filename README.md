@@ -4,16 +4,16 @@
 
 ##  Features
 
-*   ** PDF to Word & Back:** Convert PDFs to editable Word documents (`.docx`) and convert them back to professional PDFs after editing.
-*   ** Edit & Redact:** Search and replace text directly in the PDF, or securely redact (black out) sensitive information.
-*   ** Page Manipulation:**
+*   **PDF to Word & Back:** Convert PDFs to editable Word documents (`.docx`) and convert them back to professional PDFs after editing.
+*   **Edit & Redact:** Search and replace text directly in the PDF, or securely redact (black out) sensitive information.
+*   **Page Manipulation:**
     *   **Rotate:** Fix orientation (90°, 180°, 270°).
     *   **Delete:** Remove unwanted pages easily.
     *   **Split/Extract:** Save specific page ranges as new files.
-*   ** Security:** Encrypt your PDFs with AES-256 passwords or decrypt protected files.
-*   ** Merge:** Combine multiple PDF files into a single document.
-*   ** Extract Text:** Dump text content from PDFs for analysis.
-*   ** Metadata:** View detailed file information (Author, Page Count, Encryption status).
+*   **Security:** Encrypt your PDFs with AES-256 passwords or decrypt protected files.
+*   **Merge:** Combine multiple PDF files into a single document.
+*   **Extract Text:** Dump text content from PDFs for analysis.
+*   **Metadata:** View detailed file information (Author, Page Count, Encryption status).
 
 ##  Installation
 
